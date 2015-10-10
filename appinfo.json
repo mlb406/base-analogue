@@ -1,0 +1,23 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "mlb406@gmail.com",
+    "longName": "base-analogue",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "base-analogue",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "11991e7e-4fb0-4176-8801-65ab234c9c1d",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
